@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MovieTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MovieTester\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @March\ 24,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=array
+comment1.target=void\ printArray(Movie[])
+comment2.params=array\ oneOrTwo
+comment2.target=Movie[]\ sortTitle(Movie[],\ int)
+comment3.params=array\ oneOrTwo
+comment3.target=Movie[]\ sortYear(Movie[],\ int)
+comment4.params=array\ oneOrTwo
+comment4.target=Movie[]\ sortStudio(Movie[],\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

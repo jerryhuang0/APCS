@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Forest\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @Jan\ 31,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=l\ w\ trees
+comment1.target=Forest(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getForest()
+numComments=3

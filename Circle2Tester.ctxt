@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Circle2Tester
+comment1.params=
+comment1.target=java.lang.String\ forThis()
+comment2.params=placeholder
+comment2.target=java.lang.String\ revealCenter(Circle2)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

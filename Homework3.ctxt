@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Homework3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Homework3\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Homework3()
+comment2.params=
+comment2.target=int\ getNumPage()
+comment3.params=
+comment3.target=java.lang.String\ getHwType()
+comment4.params=numPage
+comment4.target=void\ setNumPage(int)
+comment5.params=hwType
+comment5.target=void\ setHwType(java.lang.String)
+comment6.params=hw
+comment6.target=void\ setHwLeft(int)
+comment7.params=
+comment7.target=int\ getHwLeft()
+comment8.params=numPage\ hwType
+comment8.target=void\ createAssn(int,\ java.lang.String)
+comment9.params=done
+comment9.target=void\ doHw(int)
+numComments=10

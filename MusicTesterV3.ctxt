@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment1.params=array
+comment1.target=void\ printArray(Music[])
+comment2.params=array
+comment2.target=Music[]\ sortTitle(Music[])
+comment3.params=array
+comment3.target=Music[]\ sortYear(Music[])
+comment4.params=array
+comment4.target=Music[]\ sortArtist(Music[])
+comment5.params=array\ title
+comment5.target=void\ searchTitle(Music[],\ java.lang.String)
+comment6.params=array\ year
+comment6.target=void\ searchYear(Music[],\ int)
+comment7.params=array\ artist
+comment7.target=void\ searchArtist(Music[],\ java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

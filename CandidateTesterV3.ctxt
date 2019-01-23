@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CandidateTesterV3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CandidateTesterV3\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @March\ 15,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=array\ findName\ replaceName
+comment1.target=void\ changeName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment2.params=array\ findName\ replaceVotes
+comment2.target=void\ changeVotes(Candidate[],\ java.lang.String,\ int)
+comment3.params=array\ findName\ replaceName\ replaceVotes
+comment3.target=void\ changeNameAndVotes(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

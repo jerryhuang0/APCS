@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CandidateTesterV4
+comment1.params=array\ findName\ replaceName
+comment1.target=void\ changeName(java.util.List,\ java.lang.String,\ java.lang.String)
+comment2.params=array\ findName\ replaceVotes
+comment2.target=void\ changeVotes(java.util.List,\ java.lang.String,\ int)
+comment3.params=array\ findName\ replaceName\ replaceVotes
+comment3.target=void\ changeNameAndVotes(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

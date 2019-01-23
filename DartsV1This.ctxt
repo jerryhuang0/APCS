@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DartsV1This
+comment1.params=dartNum\ trialNum
+comment1.target=DartsV1This(int,\ int)
+comment2.params=
+comment2.target=void\ simTrials()
+comment3.params=
+comment3.target=int\ getDartNum()
+comment4.params=
+comment4.target=int\ getTrialNum()
+comment5.params=
+comment5.target=double\ getPi()
+comment6.params=
+comment6.target=int\ getHits()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

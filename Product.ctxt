@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Product\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @March\ 5,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=price
+comment3.target=void\ setPrice(double)
+comment4.params=
+comment4.target=double\ getPrice()
+numComments=5

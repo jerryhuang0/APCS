@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APComputerScience
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ APComputerScience\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @Feb\ 23,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=APComputerScience()
+comment2.params=numPage\ hwType
+comment2.target=void\ createAssn(int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

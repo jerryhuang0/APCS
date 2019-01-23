@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DeleteMe
+comment0.text=\r\n\ Performs\ a\ frequency\ analysis\ of\ the\ letter\ in\ a\ message.\r\n\r\n\ @author\ Tushaar\ Kamat\r\n\ @version\ 12/01/2016\r\n
+comment1.params=inFile\ outFile
+comment1.target=DeleteMe(java.io.File,\ java.io.File)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ FrequencyAnalysis\ Class.\r\n\r\n
+comment2.params=word
+comment2.target=void\ countLettersInWord(java.lang.String)
+comment2.text=\r\n\ Mutator\ method\ that\ uses\ ASCII\ characters\ to\ assign\ the\ occurrences\ per\r\n\ word\ to\ an\ array.\r\n\r\n\ @param\ word\r\n\ \ \ \ \ \ \ \ \ \ \ \ a\ single\ token\ to\ be\ counted\r\n
+comment3.params=
+comment3.target=void\ readTextFile()
+comment3.text=\r\n\ Reads\ each\ word\ in\ the\ inFile\ and\ runs\ the\ countLettersInWord\ method\ on\r\n\ them.\r\n\r\n\ @throws\ IOException\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Overrides\ the\ toString\ method\ of\ the\ Object\ class,\ and\ prints\ a\ table\r\n\ letters,\ occurrences,\ an\ frequency.\r\n
+comment5.params=
+comment5.target=void\ writeTextFile()
+comment5.text=\r\n\r\n\ Writes\ the\ output\ table\ to\ a\ text\ file.\r\n\r\n\ @throws\ IOException\r\n
+numComments=6

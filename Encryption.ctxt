@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Encryption
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Encryption\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @Feb\ 9,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Encryption()
+comment2.params=setShift
+comment2.target=void\ setShift(int)
+comment3.params=input
+comment3.target=java.lang.String\ shiftMessage(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ displayAlphabet()
+comment5.params=
+comment5.target=java.lang.String\ displayCaesarAlphabet()
+numComments=6

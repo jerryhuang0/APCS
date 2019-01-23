@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RidingMower
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RidingMower\ here.\r\n\r\n\ @Gerald\ Huang\ (your\ name)\r\n\ @March\ 5,\ 2018\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RidingMower()
+comment2.params=gasAmount
+comment2.target=int\ mow(int)
+numComments=3
